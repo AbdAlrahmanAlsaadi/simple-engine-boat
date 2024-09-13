@@ -1,0 +1,11 @@
+Model Information:
+* title:	Beach house - place for lifeguard
+* source:	https://sketchfab.com/3d-models/beach-house-place-for-lifeguard-343ce6586e05413f923fe4eed629a62d
+* author:	SSchannel (https://sketchfab.com/SSchannel)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Beach house - place for lifeguard" (https://sketchfab.com/3d-models/beach-house-place-for-lifeguard-343ce6586e05413f923fe4eed629a62d) by SSchannel (https://sketchfab.com/SSchannel) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="stylesheet" href="/main.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite App</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.7/dat.gui.min.js"></script>
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <div class="info-note">
+      <p>Press <span>i</span> to display shortcuts</p>
+    </div>
+    <div class="information">
+      <p>Press <span>W / ArrowUp</span> to move Up</p>
+      <p>Press <span>S / ArrowDown</span> to move Down</p>
+      <p>Press <span>D / ArrowLeft</span> to move Left</p>
+      <p>Press <span>A / ArrowRight</span> to move Right</p>
+      <hr />
+      <p>Press <span>C</span> to colorize the moving parts</p>
+      <p>Press <span>T</span> Turn the engine on</p>
+      <p>Press <span>Space</span> to enable brake</p>
+      <hr />
+      <p>Press <span>T</span> Turn increase thrust</p>
+      <p>Press <span>Y</span> Turn decrees thrust</p>
+      <hr />
+      <p>Press <span>E</span> To bank the airplane to the right</p>
+      <p>Press <span>Q</span> To bank the airplane to the left</p>
+      <hr />
+      <p>Press <span>O</span> To open the wheels</p>
+      <p>Press <span>P</span> To close the wheels</p>
+      <hr />
+      <p>Press <span>Z</span> To change the flaps</p>
+    </div>
+    <div id="game_over">
+      <p>GAME OVER</p>
+      <div>press R to restart</div>
+    </div>
+    <div id="warning"></div>
+    <div id="display-values">
+      <div id="HTMLPosition"></div>
+      <div id="HTMLVelocity"></div>
+      <div id="HTMLAcceleration"></div>
+      <div id="HTMLDepth"></div>
+      <div id="HTMLVolume"></div>
+      <div id="HTMLPropulsion"></div>
+      <hr />
+      <div id="HTMLAccerlation"></div>
+
+      <hr />
+      <div id="HTMLfric"></div>
+      <hr />
+      <div id="HTMLprop"></div>
+      <hr />
+    </div>
+
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>

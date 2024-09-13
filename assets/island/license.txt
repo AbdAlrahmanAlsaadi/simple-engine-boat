@@ -1,0 +1,11 @@
+Model Information:
+* title:	island4
+* source:	https://sketchfab.com/3d-models/island4-42adc43c10c9477abcc283258160886b
+* author:	marsmotion (https://sketchfab.com/marsmotion)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "island4" (https://sketchfab.com/3d-models/island4-42adc43c10c9477abcc283258160886b) by marsmotion (https://sketchfab.com/marsmotion) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
